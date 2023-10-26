@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.Evm.Server", "Lab2.Evm.Server\Lab2.Evm.Server.csproj", "{621D6485-A1ED-442D-A216-95D72DBE377B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.Evm.Client", "Lab2.Evm.Client\Lab2.Evm.Client.csproj", "{0BE3F79F-3802-46B2-B385-41FE0E72E45E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621D6485-A1ED-442D-A216-95D72DBE377B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621D6485-A1ED-442D-A216-95D72DBE377B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621D6485-A1ED-442D-A216-95D72DBE377B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621D6485-A1ED-442D-A216-95D72DBE377B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE3F79F-3802-46B2-B385-41FE0E72E45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE3F79F-3802-46B2-B385-41FE0E72E45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE3F79F-3802-46B2-B385-41FE0E72E45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE3F79F-3802-46B2-B385-41FE0E72E45E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D669CE8-C049-482E-9A0D-D150A7BF257E}
+	EndGlobalSection
+EndGlobal
